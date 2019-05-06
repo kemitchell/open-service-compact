@@ -1,5 +1,5 @@
 # Open Service Compact Acceptable Service Policy
-Version {version}
+Version v1.0.0-draft.1
 
 ## Purpose
 This policy guarantees users of this software transparency, access, and control over both this software and the data about them processed by it.

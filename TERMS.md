@@ -1,5 +1,5 @@
 # Open Service Compact License Terms
-Version {version}
+Version v1.0.0-draft.1
 
 ## Purpose
 This compact gives everyone as much permission to work with this software as possible, while protecting users from exploitation and contributors from liability.
