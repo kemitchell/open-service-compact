@@ -2,15 +2,15 @@
 Version {version}
 
 ## Purpose
-This policy {purpose}.
+This policy guarantees users of this software transparency, access, and control over both this software and the data about them processed by it.
 
-## License Term
+## License Terms
 This policy and accompanying open service compact license terms make up the terms of a compact for this software.  You may not accept this compact without the license terms, too.
 
-## Keep Software Open
+## Software
 
 ### Copyleft
-With two exceptions, [Prototypes](#prototypes) and [Applications](#applications), you must contribute all software that invokes this software's functionality, as well as changes and additions to this software, according to [Contributing](#contributing).
+With the sole exception of [Prototypes](#prototypes), you must contribute all software that invokes this software's functionality, as well as changes and additions to this software, according to [Contributing](#contributing).
 
 ### Prototypes
 You need not contribute prototype changes, extensions, or applications that you do not end up using for more than fourteen calendar days, share with anyone else, or use to provide a service to anyone else.
@@ -21,8 +21,8 @@ When this license requires you to contribute software:
 #### Publish
 Publish all source code for that software, in the preferred form for making changes, through a freely accessible distribution system widely used for similar source code, so the developer and others can find and copy it.
 
-#### Answer Inquiries
-Answer users requests for the location where you have published the software.
+#### Link
+Promptly answer users' written requests for the location where you have published the software.
 
 #### License
 Ensure that each part of the source code for the software is licensed to the public under one of these:
@@ -35,3 +35,17 @@ You may choose license terms only for software you contribute.  You may _not_ ch
 
 #### Deadline
 Take these steps within thirty calendar days of creating or using the software for the first time.
+
+## Data
+
+### Processing
+Do not take any action to prevent participants from processing data they have the legal right to process.
+
+### Copies
+Promptly fulfill participants' written requests for copies of data you have that they have the legal right to access, in the preferred form for processing with this software, gratis or at cost, without unreasonable or unnecessary expense.
+
+### Exercise
+Do not take any action to stop participants from doing what this compact licenses them to do, unless it is illegal.
+
+### Permit Circumvention
+Allow other participants to circumvent technical protection measures that violate [Processing](#processing), [Copies](#copies), or [Exercise](#exercise).
