@@ -4,7 +4,7 @@ Version {version}
 ## Purpose
 This compact gives everyone as much permission to work with this software as possible, while protecting users from exploitation and contributors from liability.
 
-## Acceptable Service
+## Service
 These terms and an accompanying acceptable service policy make up the terms of a compact for this software.  You may not accept this compact without accepting the policy, too.
 
 ## Acceptance
