@@ -26,8 +26,11 @@ Promptly answer users' written requests for the location where you have publishe
 
 #### License
 Ensure that each part of the source code for the software is licensed to the public under one of these:
+
 1.  [Open Service Compact License Terms version {version}]({url})
+
 2.  [The Blue Oak Model License 1.0.0](https://spdx.org/licenses/BlueOak-1.0.0.html)
+
 3.  any of the following licenses, by Software Package Data eXchange identifier: `BSD-2-Clause-Patent`, `MIT`, `BSD-2-Clause`, `BSD-2-Clause-FreeBSD`, `BSD-2-Clause-NetBSD`, `ISC`, `UPL-1.0`, `Apache-2.0`, `ECL-2.0`
 
 #### Clarification
