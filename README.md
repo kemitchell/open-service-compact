@@ -7,9 +7,9 @@ These terms are highly experimental.  There is not yet any "stable", versioned r
 ## Structure
 Unlike a traditional open source software license, Open Service Compact comes in two parts:
 
-1.  a set of license terms
+1.  [license terms](./TERMS.md)
 
-2.  a an acceptable service policy
+2.  [acceptable service policy](./POLICY.md)
 
 The license terms invert the usual effect of an end-user license agreement, granting everyone access to do as much as possible with the software.
 
