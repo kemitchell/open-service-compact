@@ -1,4 +1,4 @@
-# Open Service Compact
+# Open Service Compact License
 
 Version {version}
 
@@ -8,7 +8,7 @@ This compact gives everyone as much permission to work with this software as pos
 
 ## Acceptable Service
 
-These terms and an accompanying acceptable service policy make up the terms of a compact for this software.  You may not accept this compact without accepting the policy.
+These terms and an accompanying acceptable service policy make up the terms of a compact for this software.  You may not accept this compact without accepting the policy, too.
 
 ## Acceptance
 
