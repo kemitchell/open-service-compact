@@ -4,8 +4,8 @@ Version {version}
 ## Purpose
 This policy guarantees users of this software transparency, access, and control over both this software and the data about them processed by it.
 
-## License Terms
-This policy and accompanying open service compact license terms make up the terms of a compact for this software.  You may not accept this compact without the license terms, too.
+## License
+This policy and accompanying license terms make up the terms of a compact for this software.  You may not accept this compact without the license terms, too.
 
 ## Software
 
