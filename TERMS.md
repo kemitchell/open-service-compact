@@ -1,4 +1,4 @@
-# Open Service Compact License
+# Open Service Compact License Terms
 Version {version}
 
 ## Purpose

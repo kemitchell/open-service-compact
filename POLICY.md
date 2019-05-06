@@ -1,4 +1,4 @@
-# Acceptable Service Policy
+# Open Service Compact Acceptable Service Policy
 Version {version}
 
 ## Purpose
